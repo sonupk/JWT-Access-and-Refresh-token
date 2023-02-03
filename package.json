@@ -1,0 +1,24 @@
+{
+  "name": "jwt-access-and-refresh-token",
+  "version": "1.0.0",
+  "description": "JWT access and refresh token",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sonupk/JWT-Access-and-Refresh-token.git"
+  },
+  "author": "sonu kamble",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sonupk/JWT-Access-and-Refresh-token/issues"
+  },
+  "homepage": "https://github.com/sonupk/JWT-Access-and-Refresh-token#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "jsonwebtoken": "^9.0.0",
+    "nodemon": "^2.0.20"
+  }
+}
